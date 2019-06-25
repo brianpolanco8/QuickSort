@@ -1,0 +1,11 @@
+/Users/brianpolanco/Desktop/QuickSort/bin/Debug/netcoreapp2.1/QuickSort.deps.json
+/Users/brianpolanco/Desktop/QuickSort/bin/Debug/netcoreapp2.1/QuickSort.runtimeconfig.json
+/Users/brianpolanco/Desktop/QuickSort/bin/Debug/netcoreapp2.1/QuickSort.runtimeconfig.dev.json
+/Users/brianpolanco/Desktop/QuickSort/bin/Debug/netcoreapp2.1/QuickSort.dll
+/Users/brianpolanco/Desktop/QuickSort/bin/Debug/netcoreapp2.1/QuickSort.pdb
+/Users/brianpolanco/Desktop/QuickSort/obj/Debug/netcoreapp2.1/QuickSort.csprojAssemblyReference.cache
+/Users/brianpolanco/Desktop/QuickSort/obj/Debug/netcoreapp2.1/QuickSort.csproj.CoreCompileInputs.cache
+/Users/brianpolanco/Desktop/QuickSort/obj/Debug/netcoreapp2.1/QuickSort.AssemblyInfoInputs.cache
+/Users/brianpolanco/Desktop/QuickSort/obj/Debug/netcoreapp2.1/QuickSort.AssemblyInfo.cs
+/Users/brianpolanco/Desktop/QuickSort/obj/Debug/netcoreapp2.1/QuickSort.dll
+/Users/brianpolanco/Desktop/QuickSort/obj/Debug/netcoreapp2.1/QuickSort.pdb
